@@ -70,15 +70,15 @@ main{
     float: none;
     width: 90%;
     margin: auto;
-    padding-top:
   }
   .box1{
-    margin-top: : 50px;
+    margin-top:50px;
   }
   .box2{
   margin-top: 20px;
   }
   .box3{
+    margin-top: 20px;
     margin-bottom: 50px;
   }
 }
